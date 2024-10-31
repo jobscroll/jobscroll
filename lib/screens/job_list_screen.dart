@@ -89,7 +89,7 @@ class _JobListScreenState extends State<JobListScreen> {
         title: Column(
           children: [
             Text(
-              'JobStream',
+              'JobScroll',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 8),

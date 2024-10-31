@@ -1,4 +1,4 @@
-# job_stream
+# JobScroll
 
 A new Flutter project.
 

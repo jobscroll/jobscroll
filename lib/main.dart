@@ -4,14 +4,14 @@ import 'screens/favorite_screen.dart';
 import 'screens/detail_screen.dart';
 
 void main() {
-  runApp(JobStreamApp());
+  runApp(JobScrollApp());
 }
 
-class JobStreamApp extends StatelessWidget {
+class JobScrollApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'JobStream',
+      title: 'JobScroll',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
